@@ -152,10 +152,12 @@ The GitHub Actions workflow that builds and deploys your site to Github Pages is
     ```
 
 ## Licensing and Attribution
-
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
-
-The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
+This website uses "Just The Docs" jekyll template wich is under the MIT license.
+The code of the website itself (i.e. the HTML/CSS files (without including assets and content)) is under the MIT license.
+The content of the website (i.e. the documentation, assets, ...) is not under the MIT license and you can not reuse
+it in any way without the explicit authorisation of Fujima Electronics.
+The assets (contained inside /assets/ folder) is not under the MIT license and you can not reuse it in any way
+without the explicit authorisation of Fujima Electronics.
 
 ----
 
