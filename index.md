@@ -1,2 +1,2 @@
-# Fujima Electronics's Github Page
+# Home
 Welcome to the Fujima Electronics's Github Page.
