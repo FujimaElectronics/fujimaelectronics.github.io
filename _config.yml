@@ -4,7 +4,7 @@ theme: just-the-docs
 
 #url: https://just-the-docs.github.io
 baseurl: /
-url: https://fujimaelectronics.github.io/
+url: https://fujimaelectronics.github.io
 
 exclude:
   - assets/
