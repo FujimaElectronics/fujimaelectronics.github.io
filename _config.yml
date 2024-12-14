@@ -1,6 +1,7 @@
 title: Fujima Electronics
 description: Fujima Electronics's Github Page
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: just-the-docs
 
 #url: https://just-the-docs.github.io
 baseurl: ""
