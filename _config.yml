@@ -4,10 +4,10 @@ theme: just-the-docs
 
 #url: https://just-the-docs.github.io
 baseurl: "/"
-url: https://fujimaelectronics.github.io/
+url: "https://fujimaelectronics.github.io/"
 
 exclude:
   - assets/
 
-favicon_ico: "/assets/img/favicon.ico
+favicon_ico: "/assets/img/favicon.ico"
 nav_enabled: true
