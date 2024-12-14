@@ -3,7 +3,7 @@ description: Fujima Electronics's Github Page
 theme: just-the-docs
 
 #url: https://just-the-docs.github.io
-baseurl: /
+baseurl: "/"
 url: https://fujimaelectronics.github.io
 
 exclude:
