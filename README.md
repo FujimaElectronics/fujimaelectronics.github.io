@@ -1,5 +1,5 @@
 # Fujima Electronics's Github Page repository
-This repository contain the Fujima Electronics's Github Page.
+This repository contains the Fujima Electronics's Github Page.
 
 ## Licensing and Attribution
 This website uses "Just The Docs" jekyll template wich is under the MIT license.
