@@ -1,5 +1,5 @@
 # Home
-Welcome to the Fujima Electronics's Github Page.
+Welcome to the Fujima Electronics' Github Page.
 
 ## Projects
 - [FujimaOS]()
