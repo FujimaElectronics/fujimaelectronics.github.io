@@ -13,3 +13,10 @@ exclude:
 
 #favicon_ico: /assets/img/favicon.ico
 #nav_enabled: true
+
+
+# Callouts
+callouts:
+  important:
+    title: Important
+    color: yellow
