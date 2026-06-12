@@ -1,6 +1,8 @@
 # Home
 Welcome to the Fujima Electronics' Github Page.
 
+> This website is still under development.
+
 ## Projects
 - [FujimaOS]()
 - [Fujima Engine]()
