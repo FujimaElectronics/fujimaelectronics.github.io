@@ -2,7 +2,7 @@
 Welcome to the Fujima Electronics' Github Page.
 
 > This website is still under development. \
-> The japanese version will be available [here](https://fujimaelectronics.github.io/jp/index.md) (WIP).
+> The japanese version will be available [here](https://fujimaelectronics.github.io/jp/index/) (WIP).
 
 ## Projects
 - [FujimaOS]()
