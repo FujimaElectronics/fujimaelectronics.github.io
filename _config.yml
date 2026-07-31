@@ -8,7 +8,7 @@ color_scheme: "dark"
 baseurl: ""
 #url: https://fujimaelectronics.github.io/
 
-#include: ['jp']
+include: ['jp']
 
 exclude:
   - assets/
