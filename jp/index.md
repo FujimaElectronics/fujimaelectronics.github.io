@@ -1,6 +1,6 @@
 layout: page
 title: フジマ・エレクトロニクスのGitHub Page
-permaling: /jp/index
+permalink: "/jp/index/"
 
 # WIP
 フジマ・エレクトロニクスのGitHub Pageへようこそ
