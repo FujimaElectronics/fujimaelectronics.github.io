@@ -2,6 +2,7 @@
 layout: page
 title: Fujima Electronics' GitHub Page
 permalink: "/index/"
+nav_order : 1
 ---
 
 # Home
