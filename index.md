@@ -14,4 +14,4 @@ Welcome to the Fujima Electronics' Github Page.
 - [FujimaOS]()
 - [Fujima Engine]()
 - [Fujima RPG CMD Engine]()
-- [Fujima Calculator]()
+- [Fujima Calculator](/projects/fujima_calculator/)
