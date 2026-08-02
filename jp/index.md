@@ -2,6 +2,7 @@
 layout: page
 title: フジマ・エレクトロニクスのGitHub Page
 permalink: "/jp/index/"
+nav_order: 2
 ---
 
 # WIP
