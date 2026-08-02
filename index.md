@@ -1,3 +1,9 @@
+---
+layout: page
+title: Fujima Electronics' GitHub Page
+permalink: "/index/"
+---
+
 # Home
 Welcome to the Fujima Electronics' Github Page.
 
