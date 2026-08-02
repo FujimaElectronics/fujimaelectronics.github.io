@@ -11,6 +11,7 @@ baseurl: ""
 include: ['jp']
 
 exclude:
+  - README.md
   - assets/
 
 #favicon_ico: /assets/img/favicon.ico
