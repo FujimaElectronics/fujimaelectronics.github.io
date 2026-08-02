@@ -2,6 +2,6 @@
 layout: page
 title: Projects
 parent: Fujima Electronics' GitHub Page
-permalink: "/projects"
+permalink: "/projects/"
 nav_order: 1
 ---
