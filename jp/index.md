@@ -12,4 +12,4 @@ nav_order: 2
 - [フジマOS]()
 - [フジマEngine]()
 - [フジマ　RPG CMD Engine]()
-- [フジマ電卓]()
+- [フジマ電卓](/jp/projects/fujima_calculator/)
